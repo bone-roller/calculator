@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "skineable",
+  "main": "./js/app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bone-roller/calculator.git"
+  },
+  "author": "John Goossen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bone-roller/calculator/issues"
+  },
+  "homepage": "https://github.com/bone-roller/calculator#readme",
+  "devDependencies": {
+    "electron": "^2.0.6"
+  }
+}
